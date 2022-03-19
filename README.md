@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madhusanka Goonathilake.
 - 👀 I’m interested in making our world better.
-- 🌱 I’m currently learning ML 
+- 🌱 I’m currently learning ML and Blockchain technologies.
 - 💞️ I’m looking to collaborate on well-crafted, well-intended software.
 - 📫 How to reach me @madhusanka on Twitter.
 
